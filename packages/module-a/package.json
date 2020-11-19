@@ -1,0 +1,29 @@
+{
+  "name": "module-a",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "hilonliao <hilonliao@tencent.com>",
+  "homepage": "https://github.com/hilonliao/lerna-project#readme",
+  "license": "ISC",
+  "main": "lib/module-a.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hilonliao/lerna-project.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/hilonliao/lerna-project/issues"
+  },
+  "dependencies": {
+    "module-b": "^0.0.1"
+  }
+}
