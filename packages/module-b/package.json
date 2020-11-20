@@ -17,11 +17,15 @@
     "type": "git",
     "url": "git+ssh://git@github.com/hilonliao/lerna-project.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/hilonliao/lerna-project/issues"
   },
-  "gitHead": "c7b18e416058c07bc031409be2dd9678005b1358"
+  "gitHead": "82a3020e0e673fdccad37622a6e17b64bdc42c2a"
 }
