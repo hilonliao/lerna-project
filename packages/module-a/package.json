@@ -1,6 +1,6 @@
 {
   "name": "module-a",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "> TODO: description",
   "author": "hilonliao <hilonliao@tencent.com>",
   "homepage": "https://github.com/hilonliao/lerna-project#readme",
@@ -28,7 +28,7 @@
     "url": "https://github.com/hilonliao/lerna-project/issues"
   },
   "dependencies": {
-    "module-b": "^0.0.8"
+    "module-b": "^0.0.9"
   },
   "gitHead": "f1b7f608577571947b43eba1d6330979342cea22"
 }
